@@ -23,7 +23,7 @@ Welcome to the repository for the ISTE Software Developer Course! Here you'll fi
 
 ## Day 1 - Git and Github
 
-- What is Git and Github ?
+- why we use github?
 - Installing Git and Creating a new account.
 - Some basic commands used in Git.
 - How to merge two branches in Git ?
@@ -132,7 +132,7 @@ Welcome to the repository for the ISTE Software Developer Course! Here you'll fi
    8. Div tag - 
 
       ```html
-      <div>Write box content here</div>
+      <div>Write box abc here</div>
       ```
    9. Form tag - 
 
