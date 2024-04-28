@@ -23,7 +23,7 @@ Welcome to the repository for the ISTE Software Developer Course! Here you'll fi
 
 ## Day 1 - Git and Github
 
-- What is Git and Github ?
+- What is Git and Github and what are the use?
 - Installing Git and Creating a new account.
 - Some basic commands used in Git.
 - How to merge two branches in Git ?
